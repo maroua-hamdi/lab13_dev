@@ -1,4 +1,4 @@
-<img width="313" height="605" alt="image" src="https://github.com/user-attachments/assets/03ff7784-26f8-4569-b2d0-71521c2ba677" /><img width="1310" height="604" alt="image" src="https://github.com/user-attachments/assets/fea9bb85-cd42-4448-99fe-421dfc25f549" /><img width="1722" height="389" alt="image" src="https://github.com/user-attachments/assets/8c6b5c80-2bd1-4946-9309-716bfadf64d1" /># Lab Android : Localisation GPS avec PHP, MySQL et OpenStreetMap
+# Lab Android : Localisation GPS avec PHP, MySQL et OpenStreetMap
 
 ## 1. Présentation du projet
 
